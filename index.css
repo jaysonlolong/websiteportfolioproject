@@ -105,7 +105,7 @@ a {
 }
 
 body {
-	background-color: lightgrey;
+/*	background-color: lightgrey;*/
 	background-image: url(./background.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
